@@ -7,6 +7,11 @@ This is a full-stack Task Management application built for the Flodo AI take-hom
 **Track Chosen:** Track A (Full-Stack Builder)
 **Extra Feature:** Recurring Tasks Logic (Daily/Weekly toggles intelligently duplicating completed tasks while shifting due dates).
 
+## 🎥 1-Minute Demo Video
+
+[▶️ **Watch the 60-Second Demo Video Here!**](<INSERT_YOUR_VIDEO_LINK_HERE>)
+*The video demonstrates the core CRUD functionality, the Recurrence stretch goal, and the locally integrated dependency blocking architecture.*
+
 ## Tech Stack
 
 - **Frontend**: Flutter & Dart (Material 3)
