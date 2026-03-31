@@ -10,7 +10,6 @@ This is a full-stack Task Management application built for the Flodo AI take-hom
 ## 🎥 1-Minute Demo Video
 
 ![Flodo App Demo Recording](flodo_demo.webp)
-*This is an automated recording visually demonstrating the UI caching speed, 2-second backend wait limits, and Recurrence duplication algorithms in action.*
 
 ## Tech Stack
 
